@@ -2,6 +2,12 @@
 #### CSE 115-A
 
 
+# Install the app 
+
+- The server is up and running hosted on onrender.com, Download the apk file on android to use the app! Enjoy!
+
+
+
 # Installation Instructions ( React-Native )
 
 ## Prerequisites
