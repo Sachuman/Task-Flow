@@ -2,6 +2,7 @@
 #### CSE 115-A
 
 Contact - sasajain@ucsc.edu for any queries !
+[Demo Link](https://www.youtube.com/watch?v=8U5fnXPhJqI)
 
 # Install the app 
 
