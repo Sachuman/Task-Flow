@@ -1,6 +1,7 @@
 # Task Flow 
 #### CSE 115-A
 
+Contact - sasajain@ucsc.edu for any queries !
 
 # Install the app 
 
